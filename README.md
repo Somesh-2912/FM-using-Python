@@ -50,7 +50,9 @@ plt.tight_layout()
 plt.show()
 ~~~
 
+
 Output Waveform
+
 <img width="780" height="580" alt="image" src="https://github.com/user-attachments/assets/8d51e22a-ec64-48d8-bf64-93e112dd5af1" />
 
 Tabular Column
